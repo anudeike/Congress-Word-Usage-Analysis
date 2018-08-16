@@ -1,0 +1,2906 @@
+{
+ "Brown": [
+  [
+   "Democrat",
+   "RepAnthonyBrown"
+  ]
+ ],
+ "Cantwell": [
+  [
+   "Democrat",
+   "SenatorCantwell"
+  ]
+ ],
+ "Cardin": [
+  [
+   "Democrat",
+   "SenatorCardin"
+  ]
+ ],
+ "Carper": [
+  [
+   "Democrat",
+   "SenatorCarper"
+  ]
+ ],
+ "Casey": [
+  [
+   "Democrat",
+   "SenBobCasey"
+  ]
+ ],
+ "Corker": [
+  [
+   "Republican",
+   "SenBobCorker"
+  ]
+ ],
+ "Feinstein": [
+  [
+   "Democrat",
+   "SenFeinstein"
+  ]
+ ],
+ "Hatch": [
+  [
+   "Republican",
+   "SenOrrinHatch"
+  ]
+ ],
+ "Klobuchar": [
+  [
+   "Democrat",
+   "SenAmyKlobuchar"
+  ]
+ ],
+ "McCaskill": [
+  [
+   "Democrat",
+   "McCaskillOffice"
+  ]
+ ],
+ "Men\u00e9ndez": [
+  [
+   "Democrat",
+   "SenatorMenendez"
+  ]
+ ],
+ "Nelson": [
+  [
+   "Democrat",
+   "SenBillNelson"
+  ]
+ ],
+ "Sanders": [
+  [
+   "Independent",
+   "SenSanders"
+  ]
+ ],
+ "Stabenow": [
+  [
+   "Democrat",
+   "SenStabenow"
+  ]
+ ],
+ "Tester": [
+  [
+   "Democrat",
+   "SenatorTester"
+  ]
+ ],
+ "Whitehouse": [
+  [
+   "Democrat",
+   "SenWhitehouse"
+  ]
+ ],
+ "Barrasso": [
+  [
+   "Republican",
+   "SenJohnBarrasso"
+  ]
+ ],
+ "Wicker": [
+  [
+   "Republican",
+   "SenatorWicker"
+  ]
+ ],
+ "Alexander": [
+  [
+   "Republican",
+   "SenAlexander"
+  ]
+ ],
+ "Collins": [
+  [
+   "Republican",
+   "RepChrisCollins"
+  ]
+ ],
+ "Cornyn": [
+  [
+   "Republican",
+   "JohnCornyn"
+  ]
+ ],
+ "Durbin": [
+  [
+   "Democrat",
+   "SenatorDurbin"
+  ]
+ ],
+ "Enzi": [
+  [
+   "Republican",
+   "SenatorEnzi"
+  ]
+ ],
+ "Graham": [
+  [
+   "Republican",
+   "GrahamBlog"
+  ]
+ ],
+ "Inhofe": [
+  [
+   "Republican",
+   "InhofePress"
+  ]
+ ],
+ "McConnell": [
+  [
+   "Republican",
+   "McConnellPress"
+  ]
+ ],
+ "Merkley": [
+  [
+   "Democrat",
+   "SenJeffMerkley"
+  ]
+ ],
+ "Reed": [
+  [
+   "Republican",
+   "RepTomReed"
+  ]
+ ],
+ "Risch": [
+  [
+   "Republican",
+   "SenatorRisch"
+  ]
+ ],
+ "Roberts": [
+  [
+   "Republican",
+   "SenPatRoberts"
+  ]
+ ],
+ "Shaheen": [
+  [
+   "Democrat",
+   "SenatorShaheen"
+  ]
+ ],
+ "Udall": [
+  [
+   "Democrat",
+   "SenatorTomUdall"
+  ]
+ ],
+ "Warner": [
+  [
+   "Democrat",
+   "MarkWarner"
+  ]
+ ],
+ "Gillibrand": [
+  [
+   "Democrat",
+   "SenGillibrand"
+  ]
+ ],
+ "Coons": [
+  [
+   "Democrat",
+   "ChrisCoons"
+  ]
+ ],
+ "Manchin": [
+  [
+   "Democrat",
+   "Sen_JoeManchin"
+  ]
+ ],
+ "Aderholt": [
+  [
+   "Republican",
+   "Robert_Aderholt"
+  ]
+ ],
+ "Amash": [
+  [
+   "Republican",
+   "nan"
+  ]
+ ],
+ "Baldwin": [
+  [
+   "Democrat",
+   "SenatorBaldwin"
+  ]
+ ],
+ "Barletta": [
+  [
+   "Republican",
+   "RepLouBarletta"
+  ]
+ ],
+ "Barton": [
+  [
+   "Republican",
+   "RepJoeBarton"
+  ]
+ ],
+ "Bass": [
+  [
+   "Democrat",
+   "RepKarenBass"
+  ]
+ ],
+ "Bennet": [
+  [
+   "Democrat",
+   "SenBennetCo"
+  ]
+ ],
+ "Bilirakis": [
+  [
+   "Republican",
+   "RepGusBilirakis"
+  ]
+ ],
+ "Bishop": [
+  [
+   "Republican",
+   "RepMikeBishop"
+  ]
+ ],
+ "Black": [
+  [
+   "Republican",
+   "RepDianeBlack"
+  ]
+ ],
+ "Blackburn": [
+  [
+   "Republican",
+   "MarshaBlackburn"
+  ]
+ ],
+ "Blumenauer": [
+  [
+   "Democrat",
+   "BlumenauerMedia"
+  ]
+ ],
+ "Blumenthal": [
+  [
+   "Democrat",
+   "SenBlumenthal"
+  ]
+ ],
+ "Blunt": [
+  [
+   "Republican",
+   "RoyBlunt"
+  ]
+ ],
+ "Boozman": [
+  [
+   "Republican",
+   "JohnBoozman"
+  ]
+ ],
+ "Bordallo": [
+  [
+   "Democrat",
+   "nan"
+  ]
+ ],
+ "Brady": [
+  [
+   "Democrat",
+   "RepBrady"
+  ]
+ ],
+ "Brooks": [
+  [
+   "Republican",
+   "SusanWBrooks"
+  ]
+ ],
+ "Buchanan": [
+  [
+   "Republican",
+   "VernBuchanan"
+  ]
+ ],
+ "Bucshon": [
+  [
+   "Republican",
+   "RepLarryBucshon"
+  ]
+ ],
+ "Burgess": [
+  [
+   "Republican",
+   "MichaelCBurgess"
+  ]
+ ],
+ "Burr": [
+  [
+   "Republican",
+   "SenatorBurr"
+  ]
+ ],
+ "Butterfield": [
+  [
+   "Democrat",
+   "GKButterfield"
+  ]
+ ],
+ "Calvert": [
+  [
+   "Republican",
+   "KenCalvert"
+  ]
+ ],
+ "Capito": [
+  [
+   "Republican",
+   "SenCapito"
+  ]
+ ],
+ "Capuano": [
+  [
+   "Democrat",
+   "RepMikeCapuano"
+  ]
+ ],
+ "Carson": [
+  [
+   "Democrat",
+   "RepAndreCarson"
+  ]
+ ],
+ "Carter": [
+  [
+   "Republican",
+   "RepBuddyCarter"
+  ]
+ ],
+ "Cassidy": [
+  [
+   "Republican",
+   "nan"
+  ]
+ ],
+ "Castor": [
+  [
+   "Democrat",
+   "USRepKCastor"
+  ]
+ ],
+ "Chabot": [
+  [
+   "Republican",
+   "RepSteveChabot"
+  ]
+ ],
+ "Chu": [
+  [
+   "Democrat",
+   "RepJudyChu"
+  ]
+ ],
+ "Cicilline": [
+  [
+   "Democrat",
+   "RepCicilline"
+  ]
+ ],
+ "Clarke": [
+  [
+   "Democrat",
+   "RepYvetteClarke"
+  ]
+ ],
+ "Clay": [
+  [
+   "Democrat",
+   "nan"
+  ]
+ ],
+ "Cleaver": [
+  [
+   "Democrat",
+   "RepCleaver"
+  ]
+ ],
+ "Clyburn": [
+  [
+   "Democrat",
+   "Clyburn"
+  ]
+ ],
+ "Coffman": [
+  [
+   "Republican",
+   "RepMikeCoffman"
+  ]
+ ],
+ "Cohen": [
+  [
+   "Democrat",
+   "RepCohen"
+  ]
+ ],
+ "Cole": [
+  [
+   "Republican",
+   "TomColeOK04"
+  ]
+ ],
+ "Conaway": [
+  [
+   "Republican",
+   "ConawayTX11"
+  ]
+ ],
+ "Connolly": [
+  [
+   "Democrat",
+   "GerryConnolly"
+  ]
+ ],
+ "Cooper": [
+  [
+   "Democrat",
+   "RepJimCooper"
+  ]
+ ],
+ "Costa": [
+  [
+   "Democrat",
+   "RepJimCosta"
+  ]
+ ],
+ "Courtney": [
+  [
+   "Democrat",
+   "RepJoeCourtney"
+  ]
+ ],
+ "Crapo": [
+  [
+   "Republican",
+   "MikeCrapo"
+  ]
+ ],
+ "Crawford": [
+  [
+   "Republican",
+   "RepRickCrawford"
+  ]
+ ],
+ "Crowley": [
+  [
+   "Democrat",
+   "RepJoeCrowley"
+  ]
+ ],
+ "Cuellar": [
+  [
+   "Democrat",
+   "RepCuellar"
+  ]
+ ],
+ "Culberson": [
+  [
+   "Republican",
+   "CongCulberson"
+  ]
+ ],
+ "Cummings": [
+  [
+   "Democrat",
+   "RepCummings"
+  ]
+ ],
+ "Davis": [
+  [
+   "Republican",
+   "RodneyDavis"
+  ]
+ ],
+ "DeFazio": [
+  [
+   "Democrat",
+   "RepPeterDeFazio"
+  ]
+ ],
+ "DeGette": [
+  [
+   "Democrat",
+   "RepDianaDeGette"
+  ]
+ ],
+ "DeLauro": [
+  [
+   "Democrat",
+   "RosaDeLauro"
+  ]
+ ],
+ "Denham": [
+  [
+   "Republican",
+   "RepJeffDenham"
+  ]
+ ],
+ "DesJarlais": [
+  [
+   "Republican",
+   "DesJarlaisTN04"
+  ]
+ ],
+ "Deutch": [
+  [
+   "Democrat",
+   "RepTedDeutch"
+  ]
+ ],
+ "Diaz-Balart": [
+  [
+   "Republican",
+   "MarioDB"
+  ]
+ ],
+ "Doggett": [
+  [
+   "Democrat",
+   "RepLloydDoggett"
+  ]
+ ],
+ "Donnelly": [
+  [
+   "Democrat",
+   "SenDonnelly"
+  ]
+ ],
+ "Doyle": [
+  [
+   "Democrat",
+   "USRepMikeDoyle"
+  ]
+ ],
+ "Duffy": [
+  [
+   "Republican",
+   "RepSeanDuffy"
+  ]
+ ],
+ "Duncan": [
+  [
+   "Republican",
+   "RepJohnDuncanJr"
+  ]
+ ],
+ "Ellison": [
+  [
+   "Democrat",
+   "KeithEllison"
+  ]
+ ],
+ "Engel": [
+  [
+   "Democrat",
+   "RepEliotEngel"
+  ]
+ ],
+ "Eshoo": [
+  [
+   "Democrat",
+   "RepAnnaEshoo"
+  ]
+ ],
+ "Flake": [
+  [
+   "Republican",
+   "JeffFlake"
+  ]
+ ],
+ "Fleischmann": [
+  [
+   "Republican",
+   "RepChuck"
+  ]
+ ],
+ "Flores": [
+  [
+   "Republican",
+   "RepBillFlores"
+  ]
+ ],
+ "Fortenberry": [
+  [
+   "Republican",
+   "JeffFortenberry"
+  ]
+ ],
+ "Foxx": [
+  [
+   "Republican",
+   "VirginiaFoxx"
+  ]
+ ],
+ "Frelinghuysen": [
+  [
+   "Republican",
+   "USRepRodney"
+  ]
+ ],
+ "Fudge": [
+  [
+   "Democrat",
+   "RepMarciaFudge"
+  ]
+ ],
+ "Garamendi": [
+  [
+   "Democrat",
+   "RepGaramendi"
+  ]
+ ],
+ "Gardner": [
+  [
+   "Republican",
+   "SenCoryGardner"
+  ]
+ ],
+ "Gibbs": [
+  [
+   "Republican",
+   "RepBobGibbs"
+  ]
+ ],
+ "Gohmert": [
+  [
+   "Republican",
+   "RepLouieGohmert"
+  ]
+ ],
+ "Goodlatte": [
+  [
+   "Republican",
+   "RepGoodlatte"
+  ]
+ ],
+ "Gosar": [
+  [
+   "Republican",
+   "RepGosar"
+  ]
+ ],
+ "Gowdy": [
+  [
+   "Republican",
+   "TGowdySC"
+  ]
+ ],
+ "Granger": [
+  [
+   "Republican",
+   "RepKayGranger"
+  ]
+ ],
+ "Grassley": [
+  [
+   "Republican",
+   "ChuckGrassley"
+  ]
+ ],
+ "Graves": [
+  [
+   "Republican",
+   "RepGarretGraves"
+  ]
+ ],
+ "Green": [
+  [
+   "Democrat",
+   "RepGeneGreen"
+  ]
+ ],
+ "Griffith": [
+  [
+   "Republican",
+   "RepMGriffith"
+  ]
+ ],
+ "Grijalva": [
+  [
+   "Democrat",
+   "RepraulGrijalva"
+  ]
+ ],
+ "Guthrie": [
+  [
+   "Republican",
+   "RepGuthrie"
+  ]
+ ],
+ "Guti\u00e9rrez": [
+  [
+   "Democrat",
+   "RepGutierrez"
+  ]
+ ],
+ "Harper": [
+  [
+   "Republican",
+   "GreggHarper"
+  ]
+ ],
+ "Harris": [
+  [
+   "Democrat",
+   "SenKamalaHarris"
+  ]
+ ],
+ "Hartzler": [
+  [
+   "Republican",
+   "RepHartzler"
+  ]
+ ],
+ "Hastings": [
+  [
+   "Democrat",
+   "RepHastingsFL"
+  ]
+ ],
+ "Heinrich": [
+  [
+   "Democrat",
+   "MartinHeinrich"
+  ]
+ ],
+ "Hensarling": [
+  [
+   "Republican",
+   "RepHensarling"
+  ]
+ ],
+ "Herrera Beutler": [
+  [
+   "Republican",
+   "HerreraBeutler"
+  ]
+ ],
+ "Higgins": [
+  [
+   "Republican",
+   "RepClayHiggins"
+  ]
+ ],
+ "Himes": [
+  [
+   "Democrat",
+   "JAHimes"
+  ]
+ ],
+ "Hirono": [
+  [
+   "Democrat",
+   "MazieHirono"
+  ]
+ ],
+ "Hoeven": [
+  [
+   "Republican",
+   "SenJohnHoeven"
+  ]
+ ],
+ "Hoyer": [
+  [
+   "Democrat",
+   "WhipHoyer"
+  ]
+ ],
+ "Huizenga": [
+  [
+   "Republican",
+   "RepHuizenga"
+  ]
+ ],
+ "Hultgren": [
+  [
+   "Republican",
+   "RepHultgren"
+  ]
+ ],
+ "Hunter": [
+  [
+   "Republican",
+   "Rep_Hunter"
+  ]
+ ],
+ "Isakson": [
+  [
+   "Republican",
+   "SenatorIsakson"
+  ]
+ ],
+ "Issa": [
+  [
+   "Republican",
+   "DarrellIssa"
+  ]
+ ],
+ "Jackson Lee": [
+  [
+   "Democrat",
+   "JacksonLeeTX18"
+  ]
+ ],
+ "Jenkins": [
+  [
+   "Republican",
+   "RepEvanJenkins"
+  ]
+ ],
+ "Johnson": [
+  [
+   "Republican",
+   "RepMikeJohnson"
+  ]
+ ],
+ "Jones": [
+  [
+   "Democrat",
+   "sendougjones"
+  ]
+ ],
+ "Jordan": [
+  [
+   "Republican",
+   "Jim_Jordan"
+  ]
+ ],
+ "Kaptur": [
+  [
+   "Democrat",
+   "RepMarcyKaptur"
+  ]
+ ],
+ "Keating": [
+  [
+   "Democrat",
+   "USRepKeating"
+  ]
+ ],
+ "Kelly": [
+  [
+   "Republican",
+   "reptrentkelly"
+  ]
+ ],
+ "Kind": [
+  [
+   "Democrat",
+   "RepRonKind"
+  ]
+ ],
+ "King": [
+  [
+   "Independent",
+   "SenAngusKing"
+  ]
+ ],
+ "Kinzinger": [
+  [
+   "Republican",
+   "RepKinzinger"
+  ]
+ ],
+ "Labrador": [
+  [
+   "Republican",
+   "Raul_Labrador"
+  ]
+ ],
+ "Lamborn": [
+  [
+   "Republican",
+   "RepDLamborn"
+  ]
+ ],
+ "Lance": [
+  [
+   "Republican",
+   "RepLanceNJ7"
+  ]
+ ],
+ "Langevin": [
+  [
+   "Democrat",
+   "JimLangevin"
+  ]
+ ],
+ "Lankford": [
+  [
+   "Republican",
+   "SenatorLankford"
+  ]
+ ],
+ "Larsen": [
+  [
+   "Democrat",
+   "RepRickLarsen"
+  ]
+ ],
+ "Larson": [
+  [
+   "Democrat",
+   "RepJohnLarson"
+  ]
+ ],
+ "Latta": [
+  [
+   "Republican",
+   "BobLatta"
+  ]
+ ],
+ "Leahy": [
+  [
+   "Democrat",
+   "SenatorLeahy"
+  ]
+ ],
+ "Lee": [
+  [
+   "Republican",
+   "SenMikeLee"
+  ]
+ ],
+ "Levin": [
+  [
+   "Democrat",
+   "RepSandyLevin"
+  ]
+ ],
+ "Lewis": [
+  [
+   "Republican",
+   "RepJasonLewis"
+  ]
+ ],
+ "Lipinski": [
+  [
+   "Democrat",
+   "RepLipinski"
+  ]
+ ],
+ "LoBiondo": [
+  [
+   "Republican",
+   "RepLoBiondo"
+  ]
+ ],
+ "Loebsack": [
+  [
+   "Democrat",
+   "DaveLoebsack"
+  ]
+ ],
+ "Lofgren": [
+  [
+   "Democrat",
+   "RepZoeLofgren"
+  ]
+ ],
+ "Long": [
+  [
+   "Republican",
+   "USRepLong"
+  ]
+ ],
+ "Lowey": [
+  [
+   "Democrat",
+   "NitaLowey"
+  ]
+ ],
+ "Lucas": [
+  [
+   "Republican",
+   "RepFrankLucas"
+  ]
+ ],
+ "Luetkemeyer": [
+  [
+   "Republican",
+   "RepBlaine"
+  ]
+ ],
+ "Luj\u00e1n": [
+  [
+   "Democrat",
+   "RepBenRayLujan"
+  ]
+ ],
+ "Lynch": [
+  [
+   "Democrat",
+   "RepStephenLynch"
+  ]
+ ],
+ "Maloney": [
+  [
+   "Democrat",
+   "RepSeanMaloney"
+  ]
+ ],
+ "Marchant": [
+  [
+   "Republican",
+   "RepKenMarchant"
+  ]
+ ],
+ "Marino": [
+  [
+   "Republican",
+   "RepTomMarino"
+  ]
+ ],
+ "Markey": [
+  [
+   "Democrat",
+   "SenMarkey"
+  ]
+ ],
+ "Matsui": [
+  [
+   "Democrat",
+   "DorisMatsui"
+  ]
+ ],
+ "McCain": [
+  [
+   "Republican",
+   "SenJohnMcCain"
+  ]
+ ],
+ "McCarthy": [
+  [
+   "Republican",
+   "GOPLeader"
+  ]
+ ],
+ "McCaul": [
+  [
+   "Republican",
+   "RepMcCaul"
+  ]
+ ],
+ "McClintock": [
+  [
+   "Republican",
+   "RepMcClintock"
+  ]
+ ],
+ "McCollum": [
+  [
+   "Democrat",
+   "BettyMcCollum04"
+  ]
+ ],
+ "McGovern": [
+  [
+   "Democrat",
+   "RepMcGovern"
+  ]
+ ],
+ "McHenry": [
+  [
+   "Republican",
+   "PatrickMcHenry"
+  ]
+ ],
+ "McKinley": [
+  [
+   "Republican",
+   "RepMcKinley"
+  ]
+ ],
+ "McMorris Rodgers": [
+  [
+   "Republican",
+   "CathyMcMorris"
+  ]
+ ],
+ "McNerney": [
+  [
+   "Democrat",
+   "RepMcNerney"
+  ]
+ ],
+ "Meeks": [
+  [
+   "Democrat",
+   "RepGregoryMeeks"
+  ]
+ ],
+ "Moore": [
+  [
+   "Democrat",
+   "RepGwenMoore"
+  ]
+ ],
+ "Moran": [
+  [
+   "Republican",
+   "JerryMoran"
+  ]
+ ],
+ "Murkowski": [
+  [
+   "Republican",
+   "LisaMurkowski"
+  ]
+ ],
+ "Murphy": [
+  [
+   "Democrat",
+   "RepStephMurphy"
+  ]
+ ],
+ "Murray": [
+  [
+   "Democrat",
+   "PattyMurray"
+  ]
+ ],
+ "Nadler": [
+  [
+   "Democrat",
+   "RepJerryNadler"
+  ]
+ ],
+ "Napolitano": [
+  [
+   "Democrat",
+   "GraceNapolitano"
+  ]
+ ],
+ "Neal": [
+  [
+   "Democrat",
+   "RepRichardNeal"
+  ]
+ ],
+ "Noem": [
+  [
+   "Republican",
+   "RepKristiNoem"
+  ]
+ ],
+ "Norton": [
+  [
+   "Democrat",
+   "EleanorNorton"
+  ]
+ ],
+ "Nunes": [
+  [
+   "Republican",
+   "RepDevinNunes"
+  ]
+ ],
+ "Olson": [
+  [
+   "Republican",
+   "RepPeteOlson"
+  ]
+ ],
+ "Palazzo": [
+  [
+   "Republican",
+   "CongPalazzo"
+  ]
+ ],
+ "Pallone": [
+  [
+   "Democrat",
+   "FrankPallone"
+  ]
+ ],
+ "Pascrell": [
+  [
+   "Democrat",
+   "BillPascrell"
+  ]
+ ],
+ "Paul": [
+  [
+   "Republican",
+   "RandPaul"
+  ]
+ ],
+ "Paulsen": [
+  [
+   "Republican",
+   "RepErikPaulsen"
+  ]
+ ],
+ "Pearce": [
+  [
+   "Republican",
+   "RepStevePearce"
+  ]
+ ],
+ "Pelosi": [
+  [
+   "Democrat",
+   "NancyPelosi"
+  ]
+ ],
+ "Perlmutter": [
+  [
+   "Democrat",
+   "RepPerlmutter"
+  ]
+ ],
+ "Peters": [
+  [
+   "Democrat",
+   "RepScottPeters"
+  ]
+ ],
+ "Peterson": [
+  [
+   "Democrat",
+   "nan"
+  ]
+ ],
+ "Pingree": [
+  [
+   "Democrat",
+   "ChelliePingree"
+  ]
+ ],
+ "Poe": [
+  [
+   "Republican",
+   "JudgeTedPoe"
+  ]
+ ],
+ "Polis": [
+  [
+   "Democrat",
+   "RepJaredPolis"
+  ]
+ ],
+ "Portman": [
+  [
+   "Republican",
+   "SenRobPortman"
+  ]
+ ],
+ "Posey": [
+  [
+   "Republican",
+   "CongBillPosey"
+  ]
+ ],
+ "Price": [
+  [
+   "Democrat",
+   "RepDavidEPrice"
+  ]
+ ],
+ "Quigley": [
+  [
+   "Democrat",
+   "RepMikeQuigley"
+  ]
+ ],
+ "Reichert": [
+  [
+   "Republican",
+   "DaveReichert"
+  ]
+ ],
+ "Renacci": [
+  [
+   "Republican",
+   "RepJimRenacci"
+  ]
+ ],
+ "Richmond": [
+  [
+   "Democrat",
+   "RepRichmond"
+  ]
+ ],
+ "Roby": [
+  [
+   "Republican",
+   "RepMarthaRoby"
+  ]
+ ],
+ "Roe": [
+  [
+   "Republican",
+   "DrPhilRoe"
+  ]
+ ],
+ "Rogers": [
+  [
+   "Republican",
+   "RepMikeRogersAL"
+  ]
+ ],
+ "Rohrabacher": [
+  [
+   "Republican",
+   "reprohrabacher"
+  ]
+ ],
+ "Rokita": [
+  [
+   "Republican",
+   "ToddRokita"
+  ]
+ ],
+ "Rooney": [
+  [
+   "Republican",
+   "RepRooney"
+  ]
+ ],
+ "Ros-Lehtinen": [
+  [
+   "Republican",
+   "RosLehtinen"
+  ]
+ ],
+ "Roskam": [
+  [
+   "Republican",
+   "PeterRoskam"
+  ]
+ ],
+ "Ross": [
+  [
+   "Republican",
+   "RepDennisRoss"
+  ]
+ ],
+ "Roybal-Allard": [
+  [
+   "Democrat",
+   "RepRoybalAllard"
+  ]
+ ],
+ "Royce": [
+  [
+   "Republican",
+   "RepEdRoyce"
+  ]
+ ],
+ "Rubio": [
+  [
+   "Republican",
+   "SenRubioPress"
+  ]
+ ],
+ "Ruppersberger": [
+  [
+   "Democrat",
+   "Call_Me_Dutch"
+  ]
+ ],
+ "Rush": [
+  [
+   "Democrat",
+   "RepBobbyRush"
+  ]
+ ],
+ "Ryan": [
+  [
+   "Democrat",
+   "RepTimRyan"
+  ]
+ ],
+ "Sablan": [
+  [
+   "Democrat",
+   "Kilili_Sablan"
+  ]
+ ],
+ "Sarbanes": [
+  [
+   "Democrat",
+   "RepSarbanes"
+  ]
+ ],
+ "Scalise": [
+  [
+   "Republican",
+   "SteveScalise"
+  ]
+ ],
+ "Schakowsky": [
+  [
+   "Democrat",
+   "JanSchakowsky"
+  ]
+ ],
+ "Schiff": [
+  [
+   "Democrat",
+   "RepAdamSchiff"
+  ]
+ ],
+ "Schrader": [
+  [
+   "Democrat",
+   "RepSchrader"
+  ]
+ ],
+ "Schumer": [
+  [
+   "Democrat",
+   "SenSchumer"
+  ]
+ ],
+ "Schweikert": [
+  [
+   "Republican",
+   "RepDavid"
+  ]
+ ],
+ "Scott": [
+  [
+   "Republican",
+   "SenatorTimScott"
+  ]
+ ],
+ "Sensenbrenner": [
+  [
+   "Republican",
+   "JimPressOffice"
+  ]
+ ],
+ "Serrano": [
+  [
+   "Democrat",
+   "RepJoseSerrano"
+  ]
+ ],
+ "Sessions": [
+  [
+   "Republican",
+   "PeteSessions"
+  ]
+ ],
+ "Sewell": [
+  [
+   "Democrat",
+   "RepTerriSewell"
+  ]
+ ],
+ "Shelby": [
+  [
+   "Republican",
+   "SenShelby"
+  ]
+ ],
+ "Sherman": [
+  [
+   "Democrat",
+   "BradSherman"
+  ]
+ ],
+ "Shimkus": [
+  [
+   "Republican",
+   "RepShimkus"
+  ]
+ ],
+ "Shuster": [
+  [
+   "Republican",
+   "RepBillShuster"
+  ]
+ ],
+ "Simpson": [
+  [
+   "Republican",
+   "CongMikeSimpson"
+  ]
+ ],
+ "Sires": [
+  [
+   "Democrat",
+   "RepSires"
+  ]
+ ],
+ "Smith": [
+  [
+   "Democrat",
+   "SenTinaSmith"
+  ]
+ ],
+ "Speier": [
+  [
+   "Democrat",
+   "RepSpeier"
+  ]
+ ],
+ "Stivers": [
+  [
+   "Republican",
+   "RepSteveStivers"
+  ]
+ ],
+ "S\u00e1nchez": [
+  [
+   "Democrat",
+   "RepLindaSanchez"
+  ]
+ ],
+ "Thompson": [
+  [
+   "Republican",
+   "CongressmanGT"
+  ]
+ ],
+ "Thornberry": [
+  [
+   "Republican",
+   "MacTXPress"
+  ]
+ ],
+ "Thune": [
+  [
+   "Republican",
+   "SenJohnThune"
+  ]
+ ],
+ "Tipton": [
+  [
+   "Republican",
+   "RepTipton"
+  ]
+ ],
+ "Tonko": [
+  [
+   "Democrat",
+   "RepPaulTonko"
+  ]
+ ],
+ "Toomey": [
+  [
+   "Republican",
+   "SenToomey"
+  ]
+ ],
+ "Tsongas": [
+  [
+   "Democrat",
+   "NikiInTheHouse"
+  ]
+ ],
+ "Turner": [
+  [
+   "Republican",
+   "RepMikeTurner"
+  ]
+ ],
+ "Upton": [
+  [
+   "Republican",
+   "RepFredUpton"
+  ]
+ ],
+ "Van Hollen": [
+  [
+   "Democrat",
+   "ChrisVanHollen"
+  ]
+ ],
+ "Vel\u00e1zquez": [
+  [
+   "Democrat",
+   "NydiaVelazquez"
+  ]
+ ],
+ "Visclosky": [
+  [
+   "Democrat",
+   "RepVisclosky"
+  ]
+ ],
+ "Walberg": [
+  [
+   "Republican",
+   "RepWalberg"
+  ]
+ ],
+ "Walden": [
+  [
+   "Republican",
+   "RepGregWalden"
+  ]
+ ],
+ "Walz": [
+  [
+   "Democrat",
+   "RepTimWalz"
+  ]
+ ],
+ "Wasserman Schultz": [
+  [
+   "Democrat",
+   "RepDWStweets"
+  ]
+ ],
+ "Waters": [
+  [
+   "Democrat",
+   "RepMaxineWaters"
+  ]
+ ],
+ "Webster": [
+  [
+   "Republican",
+   "RepWebster"
+  ]
+ ],
+ "Welch": [
+  [
+   "Democrat",
+   "PeterWelch"
+  ]
+ ],
+ "Wilson": [
+  [
+   "Democrat",
+   "RepWilson"
+  ]
+ ],
+ "Wittman": [
+  [
+   "Republican",
+   "RobWittman"
+  ]
+ ],
+ "Womack": [
+  [
+   "Republican",
+   "Rep_SteveWomack"
+  ]
+ ],
+ "Woodall": [
+  [
+   "Republican",
+   "RepRobWoodall"
+  ]
+ ],
+ "Wyden": [
+  [
+   "Democrat",
+   "RonWyden"
+  ]
+ ],
+ "Yarmuth": [
+  [
+   "Democrat",
+   "RepJohnYarmuth"
+  ]
+ ],
+ "Yoder": [
+  [
+   "Republican",
+   "RepKevinYoder"
+  ]
+ ],
+ "Young": [
+  [
+   "Republican",
+   "RepDavidYoung"
+  ]
+ ],
+ "Heller": [
+  [
+   "Republican",
+   "SenDeanHeller"
+  ]
+ ],
+ "Amodei": [
+  [
+   "Republican",
+   "MarkAmodeiNV2"
+  ]
+ ],
+ "Bonamici": [
+  [
+   "Democrat",
+   "RepBonamici"
+  ]
+ ],
+ "DelBene": [
+  [
+   "Democrat",
+   "RepDelBene"
+  ]
+ ],
+ "Massie": [
+  [
+   "Republican",
+   "RepThomasMassie"
+  ]
+ ],
+ "Payne": [
+  [
+   "Democrat",
+   "RepDonaldPayne"
+  ]
+ ],
+ "Schatz": [
+  [
+   "Democrat",
+   "SenBrianSchatz"
+  ]
+ ],
+ "Foster": [
+  [
+   "Democrat",
+   "RepBillFoster"
+  ]
+ ],
+ "Titus": [
+  [
+   "Democrat",
+   "RepDinaTitus"
+  ]
+ ],
+ "Cotton": [
+  [
+   "Republican",
+   "SenTomCotton"
+  ]
+ ],
+ "Sinema": [
+  [
+   "Democrat",
+   "RepSinema"
+  ]
+ ],
+ "LaMalfa": [
+  [
+   "Republican",
+   "RepLaMalfa"
+  ]
+ ],
+ "Huffman": [
+  [
+   "Democrat",
+   "RepHuffman"
+  ]
+ ],
+ "Bera": [
+  [
+   "Democrat",
+   "RepBera"
+  ]
+ ],
+ "Cook": [
+  [
+   "Republican",
+   "RepPaulCook"
+  ]
+ ],
+ "Swalwell": [
+  [
+   "Democrat",
+   "RepSwalwell"
+  ]
+ ],
+ "Valadao": [
+  [
+   "Republican",
+   "RepDavidValadao"
+  ]
+ ],
+ "Brownley": [
+  [
+   "Democrat",
+   "JuliaBrownley26"
+  ]
+ ],
+ "C\u00e1rdenas": [
+  [
+   "Democrat",
+   "RepCardenas"
+  ]
+ ],
+ "Ruiz": [
+  [
+   "Democrat",
+   "CongressmanRuiz"
+  ]
+ ],
+ "Takano": [
+  [
+   "Democrat",
+   "RepMarkTakano"
+  ]
+ ],
+ "Lowenthal": [
+  [
+   "Democrat",
+   "RepLowenthal"
+  ]
+ ],
+ "Vargas": [
+  [
+   "Democrat",
+   "RepJuanVargas"
+  ]
+ ],
+ "Esty": [
+  [
+   "Democrat",
+   "RepEsty"
+  ]
+ ],
+ "Yoho": [
+  [
+   "Republican",
+   "RepTedYoho"
+  ]
+ ],
+ "DeSantis": [
+  [
+   "Republican",
+   "RepDeSantis"
+  ]
+ ],
+ "Frankel": [
+  [
+   "Democrat",
+   "RepLoisFrankel"
+  ]
+ ],
+ "Gabbard": [
+  [
+   "Democrat",
+   "TulsiPress"
+  ]
+ ],
+ "Duckworth": [
+  [
+   "Democrat",
+   "SenDuckworth"
+  ]
+ ],
+ "Bustos": [
+  [
+   "Democrat",
+   "RepCheri"
+  ]
+ ],
+ "Walorski": [
+  [
+   "Republican",
+   "RepWalorski"
+  ]
+ ],
+ "Messer": [
+  [
+   "Republican",
+   "RepLukeMesser"
+  ]
+ ],
+ "Barr": [
+  [
+   "Republican",
+   "RepAndyBarr"
+  ]
+ ],
+ "Warren": [
+  [
+   "Democrat",
+   "SenWarren"
+  ]
+ ],
+ "Kennedy": [
+  [
+   "Republican",
+   "SenJohnKennedy"
+  ]
+ ],
+ "Delaney": [
+  [
+   "Democrat",
+   "RepJohnDelaney"
+  ]
+ ],
+ "Kildee": [
+  [
+   "Democrat",
+   "RepDanKildee"
+  ]
+ ],
+ "Nolan": [
+  [
+   "Democrat",
+   "USRepRickNolan"
+  ]
+ ],
+ "Wagner": [
+  [
+   "Republican",
+   "RepAnnWagner"
+  ]
+ ],
+ "Daines": [
+  [
+   "Republican",
+   "SteveDaines"
+  ]
+ ],
+ "Hudson": [
+  [
+   "Republican",
+   "RepRichHudson"
+  ]
+ ],
+ "Pittenger": [
+  [
+   "Republican",
+   "RepPittenger"
+  ]
+ ],
+ "Meadows": [
+  [
+   "Republican",
+   "RepMarkMeadows"
+  ]
+ ],
+ "Holding": [
+  [
+   "Republican",
+   "RepHolding"
+  ]
+ ],
+ "Heitkamp": [
+  [
+   "Democrat",
+   "SenatorHeitkamp"
+  ]
+ ],
+ "Cramer": [
+  [
+   "Republican",
+   "RepKevinCramer"
+  ]
+ ],
+ "Fischer": [
+  [
+   "Republican",
+   "SenatorFischer"
+  ]
+ ],
+ "Kuster": [
+  [
+   "Democrat",
+   "RepAnnieKuster"
+  ]
+ ],
+ "Lujan Grisham": [
+  [
+   "Democrat",
+   "RepLujanGrisham"
+  ]
+ ],
+ "Meng": [
+  [
+   "Democrat",
+   "RepGraceMeng"
+  ]
+ ],
+ "Jeffries": [
+  [
+   "Democrat",
+   "RepJeffries"
+  ]
+ ],
+ "Wenstrup": [
+  [
+   "Republican",
+   "RepBradWenstrup"
+  ]
+ ],
+ "Beatty": [
+  [
+   "Democrat",
+   "RepBeatty"
+  ]
+ ],
+ "Joyce": [
+  [
+   "Republican",
+   "RepDaveJoyce"
+  ]
+ ],
+ "Mullin": [
+  [
+   "Republican",
+   "RepMullin"
+  ]
+ ],
+ "Perry": [
+  [
+   "Republican",
+   "RepScottPerry"
+  ]
+ ],
+ "Rothfus": [
+  [
+   "Republican",
+   "KeithRothfus"
+  ]
+ ],
+ "Cartwright": [
+  [
+   "Democrat",
+   "RepCartwright"
+  ]
+ ],
+ "Rice": [
+  [
+   "Democrat",
+   "RepKathleenRice"
+  ]
+ ],
+ "Cruz": [
+  [
+   "Republican",
+   "SenTedCruz"
+  ]
+ ],
+ "Weber": [
+  [
+   "Republican",
+   "TXRandy14"
+  ]
+ ],
+ "O\u2019Rourke": [
+  [
+   "Democrat",
+   "RepBetoORourke"
+  ]
+ ],
+ "Castro": [
+  [
+   "Democrat",
+   "JoaquinCastrotx"
+  ]
+ ],
+ "Williams": [
+  [
+   "Republican",
+   "RepRWilliams"
+  ]
+ ],
+ "Veasey": [
+  [
+   "Democrat",
+   "RepVeasey"
+  ]
+ ],
+ "Vela": [
+  [
+   "Democrat",
+   "RepFilemonVela"
+  ]
+ ],
+ "Stewart": [
+  [
+   "Republican",
+   "RepChrisStewart"
+  ]
+ ],
+ "Kaine": [
+  [
+   "Democrat",
+   "nan"
+  ]
+ ],
+ "Kilmer": [
+  [
+   "Democrat",
+   "RepDerekKilmer"
+  ]
+ ],
+ "Heck": [
+  [
+   "Democrat",
+   "RepDennyHeck"
+  ]
+ ],
+ "Pocan": [
+  [
+   "Democrat",
+   "RepMarkPocan"
+  ]
+ ],
+ "Sanford": [
+  [
+   "Republican",
+   "RepSanfordSC"
+  ]
+ ],
+ "Booker": [
+  [
+   "Democrat",
+   "SenBooker"
+  ]
+ ],
+ "Clark": [
+  [
+   "Democrat",
+   "RepKClark"
+  ]
+ ],
+ "Byrne": [
+  [
+   "Republican",
+   "RepByrne"
+  ]
+ ],
+ "Brat": [
+  [
+   "Republican",
+   "RepDaveBrat"
+  ]
+ ],
+ "Norcross": [
+  [
+   "Democrat",
+   "DonaldNorcross"
+  ]
+ ],
+ "Adams": [
+  [
+   "Democrat",
+   "RepAdams"
+  ]
+ ],
+ "Palmer": [
+  [
+   "Republican",
+   "USRepGaryPalmer"
+  ]
+ ],
+ "Hill": [
+  [
+   "Republican",
+   "RepFrenchHill"
+  ]
+ ],
+ "Westerman": [
+  [
+   "Republican",
+   "RepWesterman"
+  ]
+ ],
+ "McSally": [
+  [
+   "Republican",
+   "RepMcSally"
+  ]
+ ],
+ "Gallego": [
+  [
+   "Democrat",
+   "RepRubenGallego"
+  ]
+ ],
+ "DeSaulnier": [
+  [
+   "Democrat",
+   "RepDeSaulnier"
+  ]
+ ],
+ "Knight": [
+  [
+   "Republican",
+   "SteveKnight25"
+  ]
+ ],
+ "Aguilar": [
+  [
+   "Democrat",
+   "reppeteaguilar"
+  ]
+ ],
+ "Lieu": [
+  [
+   "Democrat",
+   "RepTedLieu"
+  ]
+ ],
+ "Torres": [
+  [
+   "Democrat",
+   "NormaJTorres"
+  ]
+ ],
+ "Walters": [
+  [
+   "Republican",
+   "RepMimiWalters"
+  ]
+ ],
+ "Buck": [
+  [
+   "Republican",
+   "RepKenBuck"
+  ]
+ ],
+ "Curbelo": [
+  [
+   "Republican",
+   "RepCurbelo"
+  ]
+ ],
+ "Hice": [
+  [
+   "Republican",
+   "congressmanhice"
+  ]
+ ],
+ "Loudermilk": [
+  [
+   "Republican",
+   "RepLoudermilk"
+  ]
+ ],
+ "Allen": [
+  [
+   "Republican",
+   "reprickallen"
+  ]
+ ],
+ "Blum": [
+  [
+   "Republican",
+   "RepRodBlum"
+  ]
+ ],
+ "Bost": [
+  [
+   "Republican",
+   "RepBost"
+  ]
+ ],
+ "Abraham": [
+  [
+   "Republican",
+   "RepAbraham"
+  ]
+ ],
+ "Moulton": [
+  [
+   "Democrat",
+   "teammoulton"
+  ]
+ ],
+ "Poliquin": [
+  [
+   "Republican",
+   "RepPoliquin"
+  ]
+ ],
+ "Moolenaar": [
+  [
+   "Republican",
+   "RepMoolenaar"
+  ]
+ ],
+ "Trott": [
+  [
+   "Republican",
+   "repdavetrott"
+  ]
+ ],
+ "Dingell": [
+  [
+   "Democrat",
+   "RepDebDingell"
+  ]
+ ],
+ "Lawrence": [
+  [
+   "Democrat",
+   "RepLawrence"
+  ]
+ ],
+ "Emmer": [
+  [
+   "Republican",
+   "RepTomEmmer"
+  ]
+ ],
+ "Rouzer": [
+  [
+   "Republican",
+   "RepDavidRouzer"
+  ]
+ ],
+ "MacArthur": [
+  [
+   "Republican",
+   "RepTomMacArthur"
+  ]
+ ],
+ "Watson Coleman": [
+  [
+   "Democrat",
+   "RepBonnie"
+  ]
+ ],
+ "Zeldin": [
+  [
+   "Republican",
+   "RepLeeZeldin"
+  ]
+ ],
+ "Stefanik": [
+  [
+   "Republican",
+   "RepStefanik"
+  ]
+ ],
+ "Katko": [
+  [
+   "Republican",
+   "RepJohnKatko"
+  ]
+ ],
+ "Russell": [
+  [
+   "Republican",
+   "RepRussell"
+  ]
+ ],
+ "Costello": [
+  [
+   "Republican",
+   "RepRyanCostello"
+  ]
+ ],
+ "Boyle": [
+  [
+   "Democrat",
+   "CongBoyle"
+  ]
+ ],
+ "Ratcliffe": [
+  [
+   "Republican",
+   "RepRatcliffe"
+  ]
+ ],
+ "Hurd": [
+  [
+   "Republican",
+   "hurdonthehill"
+  ]
+ ],
+ "Babin": [
+  [
+   "Republican",
+   "RepBrianBabin"
+  ]
+ ],
+ "Love": [
+  [
+   "Republican",
+   "repmialove"
+  ]
+ ],
+ "Beyer": [
+  [
+   "Democrat",
+   "RepDonBeyer"
+  ]
+ ],
+ "Comstock": [
+  [
+   "Republican",
+   "RepComstock"
+  ]
+ ],
+ "Plaskett": [
+  [
+   "Democrat",
+   "staceyplaskett"
+  ]
+ ],
+ "Newhouse": [
+  [
+   "Republican",
+   "RepNewhouse"
+  ]
+ ],
+ "Grothman": [
+  [
+   "Republican",
+   "RepGrothman"
+  ]
+ ],
+ "Mooney": [
+  [
+   "Republican",
+   "RepAlexMooney"
+  ]
+ ],
+ "Amata": [
+  [
+   "Republican",
+   "RepAmata"
+  ]
+ ],
+ "Sullivan": [
+  [
+   "Republican",
+   "SenDanSullivan"
+  ]
+ ],
+ "Perdue": [
+  [
+   "Republican",
+   "sendavidperdue"
+  ]
+ ],
+ "Ernst": [
+  [
+   "Republican",
+   "SenJoniErnst"
+  ]
+ ],
+ "Tillis": [
+  [
+   "Republican",
+   "senthomtillis"
+  ]
+ ],
+ "Rounds": [
+  [
+   "Republican",
+   "SenatorRounds"
+  ]
+ ],
+ "Walker": [
+  [
+   "Republican",
+   "RepMarkWalker"
+  ]
+ ],
+ "Sasse": [
+  [
+   "Republican",
+   "SenSasse"
+  ]
+ ],
+ "Donovan": [
+  [
+   "Republican",
+   "RepDanDonovan"
+  ]
+ ],
+ "LaHood": [
+  [
+   "Republican",
+   "RepLaHood"
+  ]
+ ],
+ "Davidson": [
+  [
+   "Republican",
+   "WarrenDavidson"
+  ]
+ ],
+ "Hanabusa": [
+  [
+   "Democrat",
+   "RepHanabusa"
+  ]
+ ],
+ "Comer": [
+  [
+   "Republican",
+   "nan"
+  ]
+ ],
+ "Evans": [
+  [
+   "Democrat",
+   "RepDwightEvans"
+  ]
+ ],
+ "Hassan": [
+  [
+   "Democrat",
+   "Senatorhassan"
+  ]
+ ],
+ "Cortez Masto": [
+  [
+   "Democrat",
+   "sencortezmasto"
+  ]
+ ],
+ "Schneider": [
+  [
+   "Democrat",
+   "repschneider"
+  ]
+ ],
+ "Shea-Porter": [
+  [
+   "Democrat",
+   "repsheaporter"
+  ]
+ ],
+ "O\u2019Halleran": [
+  [
+   "Democrat",
+   "repohalleran"
+  ]
+ ],
+ "Biggs": [
+  [
+   "Republican",
+   "RepAndyBiggsAZ"
+  ]
+ ],
+ "Khanna": [
+  [
+   "Democrat",
+   "RepRoKhanna"
+  ]
+ ],
+ "Panetta": [
+  [
+   "Democrat",
+   "RepJimmyPanetta"
+  ]
+ ],
+ "Carbajal": [
+  [
+   "Democrat",
+   "RepCarbajal"
+  ]
+ ],
+ "Barrag\u00e1n": [
+  [
+   "Democrat",
+   "RepBarragan"
+  ]
+ ],
+ "Correa": [
+  [
+   "Democrat",
+   "reploucorrea"
+  ]
+ ],
+ "Blunt Rochester": [
+  [
+   "Democrat",
+   "RepLBR"
+  ]
+ ],
+ "Gaetz": [
+  [
+   "Republican",
+   "RepMattGaetz"
+  ]
+ ],
+ "Dunn": [
+  [
+   "Republican",
+   "drnealdunnfl2"
+  ]
+ ],
+ "Rutherford": [
+  [
+   "Republican",
+   "RepRutherfordFL"
+  ]
+ ],
+ "Lawson": [
+  [
+   "Democrat",
+   "RepAlLawsonJr"
+  ]
+ ],
+ "Soto": [
+  [
+   "Democrat",
+   "RepDarrenSoto"
+  ]
+ ],
+ "Demings": [
+  [
+   "Democrat",
+   "RepValDemings"
+  ]
+ ],
+ "Crist": [
+  [
+   "Democrat",
+   "repcharliecrist"
+  ]
+ ],
+ "Mast": [
+  [
+   "Republican",
+   "repbrianmast"
+  ]
+ ],
+ "Ferguson": [
+  [
+   "Republican",
+   "RepDrewFerguson"
+  ]
+ ],
+ "Krishnamoorthi": [
+  [
+   "Democrat",
+   "congressmanraja"
+  ]
+ ],
+ "Banks": [
+  [
+   "Republican",
+   "RepJimBanks"
+  ]
+ ],
+ "Hollingsworth": [
+  [
+   "Republican",
+   "reptrey"
+  ]
+ ],
+ "Marshall": [
+  [
+   "Republican",
+   "RepMarshall"
+  ]
+ ],
+ "Raskin": [
+  [
+   "Democrat",
+   "repraskin"
+  ]
+ ],
+ "Bergman": [
+  [
+   "Republican",
+   "RepJackBergman"
+  ]
+ ],
+ "Mitchell": [
+  [
+   "Republican",
+   "RepPaulMitchell"
+  ]
+ ],
+ "Budd": [
+  [
+   "Republican",
+   "RepTedBudd"
+  ]
+ ],
+ "Bacon": [
+  [
+   "Republican",
+   "repdonbacon"
+  ]
+ ],
+ "Gottheimer": [
+  [
+   "Democrat",
+   "RepJoshG"
+  ]
+ ],
+ "Rosen": [
+  [
+   "Democrat",
+   "repjackyrosen"
+  ]
+ ],
+ "Kihuen": [
+  [
+   "Democrat",
+   "RepKihuen"
+  ]
+ ],
+ "Suozzi": [
+  [
+   "Democrat",
+   "RepTomSuozzi"
+  ]
+ ],
+ "Espaillat": [
+  [
+   "Democrat",
+   "RepEspaillat"
+  ]
+ ],
+ "Faso": [
+  [
+   "Republican",
+   "RepJohnFaso"
+  ]
+ ],
+ "Tenney": [
+  [
+   "Republican",
+   "RepTenney"
+  ]
+ ],
+ "Fitzpatrick": [
+  [
+   "Republican",
+   "repbrianfitz"
+  ]
+ ],
+ "Smucker": [
+  [
+   "Republican",
+   "RepSmucker"
+  ]
+ ],
+ "Gonz\u00e1lez-Col\u00f3n": [
+  [
+   "Republican",
+   "repjenniffer"
+  ]
+ ],
+ "Kustoff": [
+  [
+   "Republican",
+   "repdavidkustoff"
+  ]
+ ],
+ "Gonzalez": [
+  [
+   "Democrat",
+   "RepGonzalez"
+  ]
+ ],
+ "Arrington": [
+  [
+   "Republican",
+   "RepArrington"
+  ]
+ ],
+ "Taylor": [
+  [
+   "Republican",
+   "RepScottTaylor"
+  ]
+ ],
+ "McEachin": [
+  [
+   "Democrat",
+   "RepMcEachin"
+  ]
+ ],
+ "Garrett": [
+  [
+   "Republican",
+   "RepTomGarrett"
+  ]
+ ],
+ "Jayapal": [
+  [
+   "Democrat",
+   "RepJayapal"
+  ]
+ ],
+ "Gallagher": [
+  [
+   "Republican",
+   "RepGallagher"
+  ]
+ ],
+ "Cheney": [
+  [
+   "Republican",
+   "RepLizCheney"
+  ]
+ ],
+ "Estes": [
+  [
+   "Republican",
+   "RepRonEstes"
+  ]
+ ],
+ "Gianforte": [
+  [
+   "Republican",
+   "nan"
+  ]
+ ],
+ "Norman": [
+  [
+   "Republican",
+   "RepRalphNorman"
+  ]
+ ],
+ "Handel": [
+  [
+   "Republican",
+   "repkhandel"
+  ]
+ ],
+ "Gomez": [
+  [
+   "Democrat",
+   "RepJimmyGomez"
+  ]
+ ],
+ "Curtis": [
+  [
+   "Republican",
+   "RepJohnCurtis"
+  ]
+ ],
+ "Hyde-Smith": [
+  [
+   "Republican",
+   "SenHydeSmith"
+  ]
+ ],
+ "Lamb": [
+  [
+   "Democrat",
+   "RepConorLamb"
+  ]
+ ],
+ "Lesko": [
+  [
+   "Republican",
+   "RepDLesko"
+  ]
+ ],
+ "Cloud": [
+  [
+   "Republican",
+   "nan"
+  ]
+ ]
+}
